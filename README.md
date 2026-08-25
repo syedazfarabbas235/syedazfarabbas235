@@ -1,162 +1,65 @@
 <div align="center">
 
-# 👋 Hi, I'm Syed Azfar Abbas
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 💻 BSCS Student @ KU-UBIT | Python Developer | Data Analyst | Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Python+Developer;Data+Analyst;C%2B%2B+%7C+Java+Developer;DSA+Enthusiast;Game+Development+Enthusiast;Prompt+Writing+%26+Vibe+Coding" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SYED%20AZFAR%20ABBAS&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Developer%20%7C%20Data%20Analyst%20%7C%20Problem%20Solver&descAlignY=62&descSize=18&color=0:141E30,100:243B55&animation=fadeIn" width="100%"/>
 
 <br>
 
-<a href="https://github.com/syedazfarabbas235">
-<img src="https://img.shields.io/badge/GitHub-syedazfarabbas235-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **BSCS student at KU-UBIT** with a strong interest in software development, data, algorithms, and interactive technologies.
-
-I enjoy turning ideas into working projects — whether that's building a Python-based data solution, implementing algorithms in C++, developing applications, or experimenting with game mechanics.
-
-I'm particularly interested in **Game Development**, **Data Analysis**, **Artificial Intelligence**, and using modern AI tools to accelerate development through **prompt writing and vibe coding**.
-
-> 🧠 **Learn → Build → Experiment → Improve**
-
----
-
-## 💻 What I Do
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🐍 Python Development
-
-- Python programming
-- Data analysis
-- NumPy & Pandas
-- Problem solving
-- Automation
-- Python-based projects
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data Analysis
-
-- Data cleaning
-- Data exploration
-- Data manipulation
-- Working with datasets
-- Analytical problem solving
-- Python-based data workflows
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎮 Game Development
-
-I'm keenly interested in game development and enjoy exploring:
-
-- Game mechanics
-- Game logic
-- AI-driven behavior
-- Algorithms
-- Interactive systems
-- C++ game development
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI • Prompt Writing • Vibe Coding
-
-I enjoy using AI as a development tool for:
-
-- Prompt engineering
-- Rapid prototyping
-- Vibe coding
-- Debugging
-- Exploring ideas
-- Turning concepts into working projects
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ Languages & Technologies
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=BSCS+Student+%40+KU-UBIT;Python+Developer;Data+Analyst;C%2B%2B+%7C+Java+%7C+MySQL;DSA+Enthusiast;Prompt+Writer;AI-Assisted+Developer;Always+Learning+%E2%80%A2+Always+Building" />
 
 <br><br>
 
-### Tools & Development
+<a href="https://github.com/syedazfarabbas235">
+<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<img src="https://komarev.com/ghpvc/?username=syedazfarabbas235&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-# 🧠 Areas of Interest
 
 <div align="center">
 
-| 🧠 Area | 🎯 Focus |
-|---|---|
-| 🐍 **Python** | Development, Data Analysis & Automation |
-| 📊 **Data Analysis** | Exploring, processing & understanding data |
-| ⚔️ **C++** | DSA, OOP & Game Development |
-| ☕ **Java** | Programming & Object-Oriented Development |
-| 🗄️ **MySQL** | Databases & Data Management |
-| 🎮 **Game Development** | Game logic, mechanics & interactive systems |
-| 🤖 **AI** | AI-assisted development & experimentation |
-| ✍️ **Prompt Writing** | Designing effective prompts for AI systems |
-| ⚡ **Vibe Coding** | Rapid AI-assisted development & prototyping |
+# ✦ ABOUT ME ✦
 
 </div>
 
----
+<table>
+<tr>
+<td width="55%" valign="top">
 
-# 🎮 Game Development
+## 👋 Hello, I'm Syed Azfar Abbas
 
-One of my strongest areas of interest is **Game Development**.
+I'm a **BSCS student at KU-UBIT** with a strong interest in software development, data analysis, algorithms, and modern AI-assisted development.
 
-I enjoy combining programming concepts with interactive experiences, particularly where **algorithms and data structures directly affect gameplay**.
+I enjoy taking an idea, breaking it down into smaller problems, and turning it into something that actually works.
 
-My work in this area includes experimenting with:
+My main areas of focus are:
+
+- 🐍 Python Development
+- 📊 Data Analysis
+- ⚡ C++ & Java Development
+- 🧠 Data Structures & Algorithms
+- 🗄️ MySQL
+- ✍️ Prompt Writing
+- 🤖 AI-assisted development
+- 💡 Problem Solving
+
+</td>
+
+<td width="45%" valign="top">
 
 ```text
-Game Logic
-    ↓
-Player Systems
-    ↓
-Game States
-    ↓
-AI / Enemy Behavior
-    ↓
-Algorithms
-    ↓
-Interactive Gameplay
+╭──────────────────────────────╮
+│                              │
+│       👨‍💻 DEVELOPER          │
+│                              │
+│   BUILD   →   TEST   →       │
+│   DEBUG   →   LEARN   →      │
+│   IMPROVE →   REPEAT         │
+│                              │
+╰──────────────────────────────╯
