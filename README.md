@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=syedazfarabbas235&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Currently%20Learning-Data%20Analysis-58A6FF?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
