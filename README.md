@@ -52,12 +52,14 @@ My main areas of focus are:
 <td width="45%" valign="top">
 
 ```text
+<pre align="center">
 ╭──────────────────────────────╮
 │                              │
-│       👨‍💻 DEVELOPER          │
+│        &lt; DEVELOPER &gt;         │
 │                              │
-│   BUILD   →   TEST   →       │
-│   DEBUG   →   LEARN   →      │
-│   IMPROVE →   REPEAT         │
+│   BUILD   &rarr;   TEST    &rarr;    │
+│   DEBUG   &rarr;   LEARN   &rarr;    │
+│   IMPROVE &rarr;   REPEAT        │
 │                              │
 ╰──────────────────────────────╯
+</pre>
