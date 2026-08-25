@@ -12,12 +12,10 @@
 
 <br><br>
 
-<a href="https://github.com/syedazfarabbas235">
-<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<img src="https://img.shields.io/badge/Currently%20Learning-Data%20Analysis-58A6FF?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/THINK-→%20BUILD%20→%20SOLVE-161B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING%20%7C%20ALWAYS%20BUILDING-58A6FF?style=for-the-badge"/>
 </div>
 
 ---
